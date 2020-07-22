@@ -1,0 +1,9 @@
+[submodule "JPMC-tech-task-1"]
+	path = JPMC-tech-task-1
+	url = https://github.com/JaspreetSandhu/JPMC-tech-task-1
+[submodule "JPMC-tech-task-2"]
+	path = JPMC-tech-task-2
+	url = https://github.com/JaspreetSandhu/JPMC-tech-task-2
+[submodule "JPMC-tech-task-3"]
+	path = JPMC-tech-task-3
+	url = https://github.com/JaspreetSandhu/JPMC-tech-task-3
